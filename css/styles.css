@@ -321,7 +321,6 @@ img {
 .icon-teams:hover,
 .icon-teams:focus {
     background-color: #404bbf;
-    ;
 }
 
 /* Portfolio */
@@ -417,4 +416,9 @@ img {
 .footer-list {
     display: flex;
     gap: 120px;
+}
+
+.icon-footer-list .icon-teams:hover,
+.icon-teams:focus {
+    background-color: #31D0AA;
 }
