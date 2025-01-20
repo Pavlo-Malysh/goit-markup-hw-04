@@ -443,10 +443,6 @@ img {
     gap: 16px;
 }
 
-/* .footer-list {
-    display: flex;
-    gap: 120px;
-} */
 
 .icon-footer-list .icon-link:hover,
 .icon-footer-list .icon-link:focus {
